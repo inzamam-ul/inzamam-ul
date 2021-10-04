@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Inzamamul Haque
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning MERN stack web development
-- 💞️ I’m looking for a part-time job
+- 🌱 I’m a MERN stack web developer
+- 💞️ I love to learn new technologies
 - 📫 My Email: inzamam.cu@gmail.com
 
 <!---
