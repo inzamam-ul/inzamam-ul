@@ -5,7 +5,7 @@
 I'm an indie full-stack developer All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning.
 
    <p align="left">
-      <a href="https://leetcode.com/inzamam-ul/">
+      <a href="https://leetcode.com/inzamamul_haque/">
          <img alt="Leetcode profile" title="Visit my leetcode profile" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> 
       <a href="https://www.linkedin.com/in/inzamam-ul/">
          <img alt="Linked in" title="Linked in" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
