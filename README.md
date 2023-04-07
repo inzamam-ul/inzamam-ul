@@ -2,7 +2,7 @@
 
 **`Problem Solver | Developer | MERN Developer`**
 
-I'm an indie full-stack developer All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning.
+I'm an indie full-stack developer All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
 
    <p align="left">
       <a href="https://leetcode.com/inzamamul_haque/">
