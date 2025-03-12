@@ -38,13 +38,37 @@ I'm an indie full-stack developer All coding projects are built from the ground 
 
 #
 
-### 📊 Stats
+### 📊 Stats and Activity
 
+ <h3>🔥 Streak Stats</h3>
 
+ ![LeetCode Stats](https://leetcard.jacoblin.cool/Inzamamul_haque?theme=wtf&font=Barlow&ext=contest)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Inzamamul_haque?theme=wtf&font=Barlow&ext=contest)
+![Inzamam's GitHub stats](https://github-readme-stats.vercel.app/api?username=inzamam-ul&show_icons=true&theme=gruvbox)   
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/inzamam-ul/github-readme-streak-stats">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="inzamam-ul's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=inzamam-ul&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    </a>
+  </p>
 
-![Inzamam's GitHub stats](https://github-readme-stats.vercel.app/api?username=inzamam-ul&show_icons=true&theme=gruvbox)    ![GitHub Streak](https://streak-stats.demolab.com?user=inzamam-ul&theme=gruvbox&border_radius=4.5)
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+  <a href="https://github.com/inzamam-ul/github-readme-stats"><img alt="inzamam-ul's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=inzamam-ul&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/inzamam-ul/github-readme-stats"><img alt="inzamam-ul's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=inzamam-ul&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/inzamam-ul/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=inzamam-ul&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  
+<br />
+
 
 
 
